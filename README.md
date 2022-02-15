@@ -3,7 +3,7 @@
 
 
 - 🔭 Terminando Ensino Médio ainda
-- 🌱 To aprendendo Html, CSS, JS e PHP
+- 🌱 To aprendendo Html, CSS, JS, PHP e Shell
 - 📫 Chama pelo discord Yummy#9416
 - 😄 Pronouns: Ele/dele
 
