@@ -1,4 +1,4 @@
-### Oiii, me chamo Eric WIlson mas me chamam de Jesus ou Yummy
+### Oiii, me chamo Eric WIlson mas me chamam de Jesus ou só Wilson
 
 
 
