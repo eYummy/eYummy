@@ -1,12 +1,7 @@
-### Oiii, me chamo Eric WIlson mas, me chamam de Jesus ou só Wilson
+### Oiii, me chamo Eric WIlson mas, só Wilson já ta bom 
 
-
-
-- 🔭 Terminando Ensino Médio ainda
-- 🌱 To aprendendo Html, CSS, JS, PHP e Shell
-- 📫 Chama pelo discord Yummy#9416
 - 😄 Pronouns: Ele/dele
-
+- Começando minha jornada de verdade agora :)
 
 
   <div style="display: inline_block"><br>
